@@ -1,2 +1,2 @@
 # book-management
-a simple book managent project in java
+a simple book manangent project in java
